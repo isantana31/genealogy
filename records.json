@@ -8,6 +8,9 @@
     {"id":"jalisco","name":"Jalisco","region":"Mexico","blurb":"Catholic registers reach back to the 1500s and are largely digitized. Civil registration begins in the 1860s, and notarial and government papers are in Guadalajara.","events":[[1859,"Civil registration law passed in Mexico"],[1910,"The Revolution begins and some local records are disrupted"]],"repos":[["Archivo Histórico de Jalisco","State archive, Guadalajara"],["Archivo de Instrumentos Públicos de Jalisco","Notarial and property archive"],["Archivo Histórico del Arzobispado de Guadalajara","Archdiocesan archive"]]},
     {"id":"quebec","name":"Québec","region":"Canada","blurb":"Parish registers are unusually complete from 1621, kept in duplicate with a civil copy. A civil registrar replaced them as the official record in 1994.","events":[[1621,"Earliest surviving parish register"],[1763,"Treaty of Paris cedes New France to Britain"],[1994,"Civil registrar replaces parish registers as the official record"]],"repos":[["BAnQ","Archives centres in Montréal, Québec City and the regions"],["Société de généalogie de Québec","Society and library"],["Library and Archives Canada","National archive, Ottawa"]]},
     {"id":"jefferson","name":"Jefferson County","region":"Kentucky, United States","blurb":"Louisville is the county seat. Statewide birth and death registration begins in 1911, county clerks hold marriages and deeds, and two early census years are lost.","events":[[1780,"Jefferson County created within Virginia"],[1792,"Kentucky becomes a state"],[1911,"Statewide birth and death registration begins"]],"repos":[["The Filson Historical Society","Library and manuscripts, Louisville"],["Kentucky Department for Libraries and Archives","State archive, Frankfort"],["University of Louisville Archives and Special Collections","University archive"],["Jefferson County Clerk","Marriages and deeds"]]}
+   {"id": "x-h-ckeswagen","name": "Hückeswagen", "region": "Germany","blurb": "A historic castle town dating back to the 11th century","events": [],"repos": [["Archion.de"]]
+    }
+
   ],
   "records": [
     {"place":"cork","types":["birth"],"title":"Civil registration of births","years":[1864,1924],"access":"free","holder":"IrishGenealogy.ie","url":"https://civilrecords.irishgenealogy.ie","notes":"Indexes and register images. The end year moves forward as older records pass the privacy threshold, so check the site for the current limit."},
@@ -66,6 +69,29 @@
     {"place":"jefferson","types":["census"],"title":"US federal census","years":[1810,1950],"access":"free","holder":"National Archives and FamilySearch","url":"https://www.archives.gov/research/census","notes":"The 1790 and 1800 Kentucky schedules are lost. Tax lists from the 1790s stand in for them."},
     {"place":"jefferson","types":["news"],"title":"Louisville city directories","years":[1832,1960],"access":"free","holder":"Internet Archive","url":"https://archive.org","notes":"Scanned directories list heads of household with occupation and address. Coverage differs by year."},
     {"place":"jefferson","types":["community"],"title":"Manuscript and family collections","years":[1750,2000],"access":"onsite","holder":"The Filson Historical Society","url":"https://filsonhistorical.org","notes":"Family papers, church records and photographs for the Louisville area. Contact the library for finding aids and hours."},
-    {"place":"jefferson","types":["land"],"title":"Deed books","years":[1784,1950],"access":"onsite","holder":"Jefferson County Clerk","url":null,"notes":"Property deeds and mortgages. Ask the clerk's office which volumes are open to the public."}
+    {"place":"jefferson","types":["land"],"title":"Deed books","years":[1784,1950],"access":"onsite","holder":"Jefferson County Clerk","url":null,"notes":"Property deeds and mortgages. Ask the clerk's office which volumes are open to the public."},
+    {"place":"x-h-ckeswagen","types":["birth","marriage","death"],"title":"Lutheran church records","years":[1786,1900],"access":"sub","p":"Archion.de","u":"https://www.archion.de/en/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/hueckeswagen-lutherisch","n":"Also includes confirmations from 1786 to 1894."}
+    {
+  "records": [
+    {
+      "id": "u1793832670802",
+      "l": "x-h-ckeswagen",
+      "t": [
+        "birth",
+        "marriage",
+        "death"
+      ],
+      "ti": "Lutheran church records",
+      "y": [
+        1786,
+        1900
+      ],
+      "a": "sub",
+      "p": "Archion.de",
+      "u": "https://www.archion.de/en/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/hueckeswagen-lutherisch",
+      "n": "Also includes confirmations from 1786 to 1894.",
+      "own": true
+    }
+
   ]
 }
