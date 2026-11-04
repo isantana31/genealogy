@@ -70,6 +70,6 @@
     {"place":"jefferson","types":["news"],"title":"Louisville city directories","years":[1832,1960],"access":"free","holder":"Internet Archive","url":"https://archive.org","notes":"Scanned directories list heads of household with occupation and address. Coverage differs by year."},
     {"place":"jefferson","types":["community"],"title":"Manuscript and family collections","years":[1750,2000],"access":"onsite","holder":"The Filson Historical Society","url":"https://filsonhistorical.org","notes":"Family papers, church records and photographs for the Louisville area. Contact the library for finding aids and hours."},
     {"place":"jefferson","types":["land"],"title":"Deed books","years":[1784,1950],"access":"onsite","holder":"Jefferson County Clerk","url":null,"notes":"Property deeds and mortgages. Ask the clerk's office which volumes are open to the public."},
-    {"place":"x-h-ckeswagen","types":["birth","marriage","death"],"title":"Lutheran church records","years":[1786,1900],"access":"sub","p":"Archion.de","u":"https://www.archion.de/en/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/hueckeswagen-lutherisch","n":"Also includes confirmations from 1786 to 1894."}
+    {"place":"x-h-ckeswagen","types":["birth","marriage","death"],"title":"Lutheran church records","years":[1786,1900],"access":"sub","holder":"Archion.de","url":"https://www.archion.de/en/alle-archive/nordrhein-westfalen/archiv-der-evangelischen-kirche-im-rheinland/hueckeswagen-lutherisch","notes":"Also includes confirmations from 1786 to 1894."}
   ]
 }
